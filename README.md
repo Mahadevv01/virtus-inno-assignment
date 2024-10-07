@@ -33,4 +33,4 @@ Build a game using React-three libraries like Fiber, Drei, Rapier, or any other 
 - **Front-end & Back-end:** Next.js
 - **3D Graphics:** React-three libraries (Fiber, Drei, Rapier, etc.)
 - **Database:** Supabase
-- **Styling:** Tailwind CSS
+
