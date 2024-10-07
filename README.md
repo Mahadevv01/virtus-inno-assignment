@@ -7,7 +7,6 @@ Build a game using React-three libraries like Fiber, Drei, Rapier, or any other 
 1. **Wheels and Joints:**
    - The vehicle should have 3 wheels and joints.
    - The front wheel should be a sphere.
-   - The back wheels should be small cylinders.
    - The body of the vehicle should be rectangular.
 
 ## Game Mechanics
