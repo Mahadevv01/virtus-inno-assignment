@@ -20,7 +20,7 @@ Build a game using React-three libraries like Fiber, Drei, Rapier, or any other 
    - Randomly drop different shapes (cubes, spheres, pyramids) from the sky.
    - The shapes should have different masses and sizes.
    - The falling shapes should exhibit physics properties when they hit the ground.
-   - Your goal is to escape the falling shapes to survive. If you touch any of the shapes, the game will be over.
+
 
 ## Bonus Features
 1. **Score Storage:**
